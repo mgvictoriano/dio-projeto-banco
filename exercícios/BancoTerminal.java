@@ -21,6 +21,6 @@ public class BancoTerminal {
             System.out.println("Saldo insuficiente");
         }
 
-        System.out.println("Saldo após a operação: " + saldo);
+        System.out.println("Saldo: " + saldo);
     }
 }
